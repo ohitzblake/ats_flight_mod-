@@ -1,0 +1,17 @@
+SiiNunit
+{
+mod_package : .package_name
+{
+    package_name: "ats_flight_mode"
+    display_name: "ATS Flight Mode"
+    author: "FlightMod Team"
+    category: "other"
+    description: "Advanced flight mode with vehicle teleportation and isolated controls"
+    icon: ""
+    image: ""
+    version: "1.0"
+    compatible_versions[]: "1.48.*"
+    compatible_versions[]: "1.49.*"
+    compatible_versions[]: "1.50.*"
+}
+}
